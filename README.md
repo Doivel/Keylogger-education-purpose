@@ -62,6 +62,9 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+or 
+you need to copy all the requirements needed for your specific system from the requirements.txt file
+and run it to install the requirement.
 
 This will install:
 - **pynput** (v1.7.6) - For keyboard event capture
